@@ -1,0 +1,47 @@
+
+Brukergrensesnitt:
+	Venstre side 3x3 grid med knapper. Høre side en label som skifter verdi for å vise hvem sin tur det er.
+	Det er også et tomrom midt på høyre side, her blir vinneren annonsert
+	På bunnen av høyre side skal det være 3 knapper, Restart, Save, Load
+
+
+Classes:
+	TicTacToe:
+		Denne klassen skal;
+			- Holde styr på hvem sin tur det er.
+			- Bli lagret når vi implimenterer lagring til fil. Altså, en instanse av denne klassen vil bli lagret
+			  så det blir mulig å loade seg tilbake midt i et spill.
+			- Kjøre en masse av Board-klassens logikk
+	
+		Metoder:
+		public TicTacToe(TicTacToeController controller), konstruktør, initisierer spill brettet av Board klassen
+		void play(int x, int y), inneholder spill-logikk, altså hvem sin tur, om noen har vunnet og om prøvd trekk er lovlig (kalkulasjon)
+		
+	- TicTacToeController 
+		Denne klassen skal;
+			- Holde de visuelle elementene oppdatert
+			- Gjøre at brukergrensesnittet fungerer
+			- Ta input
+	
+		Metoder:
+		public void initialize(), initialiserer et TicTacToe objekt
+		void onClick(ActionEvent event), eventhandler for brettet, får koordinatene til knappen trykket på og kjører play(x,y) fra TicTacToe
+		int nullConverter(Integer x), hjelpeklasse siden GridPane.getRowIndex() returnerer "null" istedenfor 0
+		void restartGame(), restarter spillet
+		void updateBoard(), oppdaterer den visuelle brett-tilstanden
+		void setWinner(char winner), oppdaterer en label med hvem vinneren er
+		void updatePlayerTurn(char playerTurn), oppdaterer for å vise hvem sin tur det er
+		
+	- Board 
+		Denne klassen skal;
+			- Holde styr på brett-tilstanden
+			- Sjekke om en spiller er vunnet (kalkulasjon)
+			- gjøre trekk om lovlig, (kalkulasjon)
+	
+		Metoder:
+		public Board(TicTacToeController controller), konstruktør, lager et 3x3 array fylt med '-'
+		Boolean isLegal(int x, int y), sjekker om et trekk er lovlig.
+		void doMove(int x, int y), gjør et trekk (på 3x3 char arrayet)
+		Boolean checkForWin(char playerTurn), sjekker om playerTurn har vunnet
+		void updateBoard(), kjører updateBoard fra kontroller klassen.
+		

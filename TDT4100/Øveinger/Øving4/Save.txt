@@ -1,0 +1,12 @@
+    void initChoiceBox() {
+    	AIBox.getItems().add("No AI opponent");
+    	AIBox.setValue(AIBox.getItems().get(0));
+    	AIBox.getItems().add("Easy");
+    	AIBox.getItems().add("Medium");
+    	AIBox.getItems().add("Hard");
+    	AIBox.getItems().add("Impossible");
+    	
+    	AIBox.getSelectionModel().selectedItemProperty().addListener((observable, oldValue, newValue) ->
+    				System.out.println(newValue)
+    			);
+    }

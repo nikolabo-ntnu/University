@@ -1,0 +1,10 @@
+main.py and pieces.py needs to be in same root folder.
+
+How to play:
+1.) Turns alternate, decide by yourselves whos white.
+
+2.) Select a piece by inputing the coordinates of the piece e.g. "A2" ("a2" also accepted)
+
+3.) Select a move from given list by typing it
+
+4.) Play until someone wins

@@ -1,0 +1,8 @@
+1.) 12!
+2.) transposition permutes the plaintext characters while substitution permutes the alphabet
+3.) Ex key search
+4.) Identify the period (key length)
+5.) linear
+6.) identical
+7.) the key needs to be as long as the message
+8.) accurately guess the colour of none of the pixels of the original image

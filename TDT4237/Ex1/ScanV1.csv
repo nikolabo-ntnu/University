@@ -1,0 +1,347 @@
+Id,Req. Timestamp,Resp. Timestamp,Method,URL,Code,Reason,RTT,Size Resp. Header,Size Resp. Body
+22,Thu Feb 04 00:00:37 CET 2021,Thu Feb 04 00:00:37 CET 2021,GET,http://molde.idi.ntnu.no:21091/107458496476094391,404,Not Found,79,294,157
+24,Thu Feb 04 00:00:37 CET 2021,Thu Feb 04 00:00:37 CET 2021,GET,http://molde.idi.ntnu.no:21091/img/731062449288527305,404,Not Found,54,294,161
+26,Thu Feb 04 00:00:37 CET 2021,Thu Feb 04 00:00:37 CET 2021,GET,http://molde.idi.ntnu.no:21091/scripts/7597880669130993603,404,Not Found,52,294,166
+28,Thu Feb 04 00:00:37 CET 2021,Thu Feb 04 00:00:38 CET 2021,GET,http://molde.idi.ntnu.no:21091/styles/7378901366166513182,404,Not Found,43,294,165
+30,Thu Feb 04 00:00:38 CET 2021,Thu Feb 04 00:00:38 CET 2021,GET,http://molde.idi.ntnu.no:21091/img,301,Moved Permanently,66,319,173
+31,Thu Feb 04 00:00:38 CET 2021,Thu Feb 04 00:00:38 CET 2021,GET,http://molde.idi.ntnu.no:21091/scripts,301,Moved Permanently,39,323,181
+32,Thu Feb 04 00:00:38 CET 2021,Thu Feb 04 00:00:39 CET 2021,GET,http://molde.idi.ntnu.no:21091/styles,301,Moved Permanently,39,322,179
+33,Thu Feb 04 00:00:39 CET 2021,Thu Feb 04 00:00:39 CET 2021,GET,http://molde.idi.ntnu.no:21091/img,301,Moved Permanently,41,319,173
+34,Thu Feb 04 00:00:39 CET 2021,Thu Feb 04 00:00:39 CET 2021,GET,http://molde.idi.ntnu.no:21091/scripts,301,Moved Permanently,41,323,181
+35,Thu Feb 04 00:00:40 CET 2021,Thu Feb 04 00:00:40 CET 2021,GET,http://molde.idi.ntnu.no:21091/styles,301,Moved Permanently,41,322,179
+36,Thu Feb 04 00:00:40 CET 2021,Thu Feb 04 00:00:40 CET 2021,GET,http://molde.idi.ntnu.no:21091/WEB-INF/web.xml,404,Not Found,60,294,154
+37,Thu Feb 04 00:00:40 CET 2021,Thu Feb 04 00:00:40 CET 2021,GET,http://molde.idi.ntnu.no:21091/WEB-INF/applicationContext.xml,404,Not Found,46,294,169
+38,Thu Feb 04 00:00:40 CET 2021,Thu Feb 04 00:00:40 CET 2021,GET,http://molde.idi.ntnu.no:21091/WEB-INF/classes/web/xml.class,404,Not Found,48,294,168
+39,Thu Feb 04 00:00:40 CET 2021,Thu Feb 04 00:00:40 CET 2021,GET,http://molde.idi.ntnu.no:21091/WEB-INF/classes/applicationContext/xml.class,404,Not Found,50,294,183
+40,Thu Feb 04 00:00:40 CET 2021,Thu Feb 04 00:00:40 CET 2021,GET,http://molde.idi.ntnu.no:21091/img,301,Moved Permanently,67,319,173
+41,Thu Feb 04 00:00:40 CET 2021,Thu Feb 04 00:00:41 CET 2021,GET,http://molde.idi.ntnu.no:21091/scripts,301,Moved Permanently,45,323,181
+42,Thu Feb 04 00:00:41 CET 2021,Thu Feb 04 00:00:41 CET 2021,GET,http://molde.idi.ntnu.no:21091/styles,301,Moved Permanently,45,322,179
+43,Thu Feb 04 00:00:41 CET 2021,Thu Feb 04 00:00:41 CET 2021,GET,http://molde.idi.ntnu.no:21091/img,301,Moved Permanently,41,319,173
+44,Thu Feb 04 00:00:42 CET 2021,Thu Feb 04 00:00:42 CET 2021,GET,http://molde.idi.ntnu.no:21091/scripts,301,Moved Permanently,43,323,181
+45,Thu Feb 04 00:00:42 CET 2021,Thu Feb 04 00:00:42 CET 2021,GET,http://molde.idi.ntnu.no:21091/styles,301,Moved Permanently,40,322,179
+46,Thu Feb 04 00:00:42 CET 2021,Thu Feb 04 00:00:42 CET 2021,GET,http://molde.idi.ntnu.no:21091/img,301,Moved Permanently,43,319,173
+47,Thu Feb 04 00:00:43 CET 2021,Thu Feb 04 00:00:43 CET 2021,GET,http://molde.idi.ntnu.no:21091/scripts,301,Moved Permanently,41,323,181
+48,Thu Feb 04 00:00:43 CET 2021,Thu Feb 04 00:00:43 CET 2021,GET,http://molde.idi.ntnu.no:21091/styles,301,Moved Permanently,41,322,179
+49,Thu Feb 04 00:00:43 CET 2021,Thu Feb 04 00:00:43 CET 2021,GET,http://molde.idi.ntnu.no:21091/img,301,Moved Permanently,40,319,173
+50,Thu Feb 04 00:00:44 CET 2021,Thu Feb 04 00:00:44 CET 2021,GET,http://molde.idi.ntnu.no:21091/scripts,301,Moved Permanently,45,323,181
+51,Thu Feb 04 00:00:44 CET 2021,Thu Feb 04 00:00:44 CET 2021,GET,http://molde.idi.ntnu.no:21091/styles,301,Moved Permanently,44,322,179
+52,Thu Feb 04 00:00:44 CET 2021,Thu Feb 04 00:00:44 CET 2021,GET,http://molde.idi.ntnu.no:21091/,200,OK,39,339,1622
+53,Thu Feb 04 00:00:44 CET 2021,Thu Feb 04 00:00:44 CET 2021,GET,http://molde.idi.ntnu.no:21091,200,OK,41,339,1622
+54,Thu Feb 04 00:00:44 CET 2021,Thu Feb 04 00:00:44 CET 2021,GET,http://molde.idi.ntnu.no:21091/img,301,Moved Permanently,65,319,173
+55,Thu Feb 04 00:00:44 CET 2021,Thu Feb 04 00:00:45 CET 2021,GET,http://molde.idi.ntnu.no:21091/img,301,Moved Permanently,40,319,173
+56,Thu Feb 04 00:00:45 CET 2021,Thu Feb 04 00:00:45 CET 2021,GET,http://molde.idi.ntnu.no:21091/img/fitness.jpg,200,OK,102,304,55502
+57,Thu Feb 04 00:00:45 CET 2021,Thu Feb 04 00:00:45 CET 2021,GET,http://molde.idi.ntnu.no:21091/scripts,301,Moved Permanently,33,323,181
+58,Thu Feb 04 00:00:45 CET 2021,Thu Feb 04 00:00:45 CET 2021,GET,http://molde.idi.ntnu.no:21091/robots.txt,404,Not Found,37,294,149
+59,Thu Feb 04 00:00:45 CET 2021,Thu Feb 04 00:00:45 CET 2021,GET,http://molde.idi.ntnu.no:21091/scripts,301,Moved Permanently,36,323,181
+60,Thu Feb 04 00:00:45 CET 2021,Thu Feb 04 00:00:45 CET 2021,GET,http://molde.idi.ntnu.no:21091/scripts/navbar.js,200,OK,44,352,1736
+61,Thu Feb 04 00:00:45 CET 2021,Thu Feb 04 00:00:45 CET 2021,GET,http://molde.idi.ntnu.no:21091/scripts/scripts.js,200,OK,54,353,6218
+62,Thu Feb 04 00:00:45 CET 2021,Thu Feb 04 00:00:45 CET 2021,GET,http://molde.idi.ntnu.no:21091/styles,301,Moved Permanently,37,322,179
+63,Thu Feb 04 00:00:45 CET 2021,Thu Feb 04 00:00:45 CET 2021,GET,http://molde.idi.ntnu.no:21091/sitemap.xml,404,Not Found,46,294,150
+64,Thu Feb 04 00:00:45 CET 2021,Thu Feb 04 00:00:45 CET 2021,GET,http://molde.idi.ntnu.no:21091/styles,301,Moved Permanently,40,322,179
+65,Thu Feb 04 00:00:45 CET 2021,Thu Feb 04 00:00:45 CET 2021,GET,http://molde.idi.ntnu.no:21091/styles/style.css,200,OK,39,338,1008
+66,Thu Feb 04 00:00:45 CET 2021,Thu Feb 04 00:00:45 CET 2021,GET,http://molde.idi.ntnu.no:21091/img,301,Moved Permanently,41,319,173
+67,Thu Feb 04 00:00:46 CET 2021,Thu Feb 04 00:00:46 CET 2021,GET,http://molde.idi.ntnu.no:21091/scripts,301,Moved Permanently,34,323,181
+68,Thu Feb 04 00:00:46 CET 2021,Thu Feb 04 00:00:46 CET 2021,GET,http://molde.idi.ntnu.no:21091/styles,301,Moved Permanently,39,322,179
+69,Thu Feb 04 00:00:46 CET 2021,Thu Feb 04 00:00:46 CET 2021,GET,http://molde.idi.ntnu.no:21091/img,301,Moved Permanently,76,319,173
+70,Thu Feb 04 00:00:47 CET 2021,Thu Feb 04 00:00:47 CET 2021,GET,http://molde.idi.ntnu.no:21091/scripts,301,Moved Permanently,36,323,181
+71,Thu Feb 04 00:00:47 CET 2021,Thu Feb 04 00:00:47 CET 2021,GET,http://molde.idi.ntnu.no:21091/styles,301,Moved Permanently,38,322,179
+72,Thu Feb 04 00:00:47 CET 2021,Thu Feb 04 00:00:47 CET 2021,GET,http://molde.idi.ntnu.no:21091/img,301,Moved Permanently,40,319,173
+73,Thu Feb 04 00:00:47 CET 2021,Thu Feb 04 00:00:48 CET 2021,GET,http://molde.idi.ntnu.no:21091/scripts,301,Moved Permanently,36,323,181
+74,Thu Feb 04 00:00:48 CET 2021,Thu Feb 04 00:00:48 CET 2021,GET,http://molde.idi.ntnu.no:21091/styles,301,Moved Permanently,35,322,179
+75,Thu Feb 04 00:00:48 CET 2021,Thu Feb 04 00:00:48 CET 2021,GET,http://molde.idi.ntnu.no:21091/img,301,Moved Permanently,71,319,173
+76,Thu Feb 04 00:00:48 CET 2021,Thu Feb 04 00:00:48 CET 2021,GET,http://molde.idi.ntnu.no:21091/scripts,301,Moved Permanently,36,323,181
+77,Thu Feb 04 00:00:48 CET 2021,Thu Feb 04 00:00:48 CET 2021,GET,http://molde.idi.ntnu.no:21091/styles,301,Moved Permanently,36,322,179
+78,Thu Feb 04 00:00:48 CET 2021,Thu Feb 04 00:00:48 CET 2021,GET,http://molde.idi.ntnu.no:21091/img,301,Moved Permanently,34,319,173
+79,Thu Feb 04 00:00:48 CET 2021,Thu Feb 04 00:00:48 CET 2021,GET,http://molde.idi.ntnu.no:21091/,200,OK,40,339,1622
+80,Thu Feb 04 00:00:48 CET 2021,Thu Feb 04 00:00:48 CET 2021,GET,http://molde.idi.ntnu.no:21091/,200,OK,42,339,1622
+81,Thu Feb 04 00:00:49 CET 2021,Thu Feb 04 00:00:49 CET 2021,GET,http://molde.idi.ntnu.no:21091/img/fitness.jpg/,404,Not Found,36,294,155
+82,Thu Feb 04 00:00:49 CET 2021,Thu Feb 04 00:00:49 CET 2021,GET,http://molde.idi.ntnu.no:21091/img/,404,Not Found,39,294,143
+83,Thu Feb 04 00:00:49 CET 2021,Thu Feb 04 00:00:49 CET 2021,GET,http://molde.idi.ntnu.no:21091/scripts,301,Moved Permanently,33,323,181
+84,Thu Feb 04 00:00:49 CET 2021,Thu Feb 04 00:00:49 CET 2021,GET,http://molde.idi.ntnu.no:21091/robots.txt/,404,Not Found,38,294,150
+85,Thu Feb 04 00:00:49 CET 2021,Thu Feb 04 00:00:49 CET 2021,GET,http://molde.idi.ntnu.no:21091/scripts/,404,Not Found,35,294,147
+86,Thu Feb 04 00:00:49 CET 2021,Thu Feb 04 00:00:49 CET 2021,GET,http://molde.idi.ntnu.no:21091/scripts/navbar.js/,404,Not Found,33,294,157
+87,Thu Feb 04 00:00:49 CET 2021,Thu Feb 04 00:00:49 CET 2021,GET,http://molde.idi.ntnu.no:21091/scripts/scripts.js/,404,Not Found,33,294,158
+88,Thu Feb 04 00:00:49 CET 2021,Thu Feb 04 00:00:49 CET 2021,GET,http://molde.idi.ntnu.no:21091/sitemap.xml/,404,Not Found,33,294,151
+89,Thu Feb 04 00:00:49 CET 2021,Thu Feb 04 00:00:49 CET 2021,GET,http://molde.idi.ntnu.no:21091/styles,301,Moved Permanently,35,322,179
+90,Thu Feb 04 00:00:49 CET 2021,Thu Feb 04 00:00:49 CET 2021,GET,http://molde.idi.ntnu.no:21091/styles/,404,Not Found,32,294,146
+91,Thu Feb 04 00:00:49 CET 2021,Thu Feb 04 00:00:49 CET 2021,GET,http://molde.idi.ntnu.no:21091/styles/style.css/,404,Not Found,37,294,156
+92,Thu Feb 04 00:00:49 CET 2021,Thu Feb 04 00:00:50 CET 2021,GET,http://molde.idi.ntnu.no:21091/img,301,Moved Permanently,369,319,173
+93,Thu Feb 04 00:00:50 CET 2021,Thu Feb 04 00:00:50 CET 2021,GET,http://molde.idi.ntnu.no:21091/scripts,301,Moved Permanently,34,323,181
+94,Thu Feb 04 00:00:50 CET 2021,Thu Feb 04 00:00:50 CET 2021,GET,http://molde.idi.ntnu.no:21091/styles,301,Moved Permanently,32,322,179
+95,Thu Feb 04 00:00:50 CET 2021,Thu Feb 04 00:00:50 CET 2021,GET,http://molde.idi.ntnu.no:21091/img,301,Moved Permanently,41,319,173
+96,Thu Feb 04 00:00:51 CET 2021,Thu Feb 04 00:00:51 CET 2021,GET,http://molde.idi.ntnu.no:21091/scripts,301,Moved Permanently,37,323,181
+97,Thu Feb 04 00:00:51 CET 2021,Thu Feb 04 00:00:51 CET 2021,GET,http://molde.idi.ntnu.no:21091/styles,301,Moved Permanently,47,322,179
+98,Thu Feb 04 00:00:51 CET 2021,Thu Feb 04 00:00:51 CET 2021,GET,http://molde.idi.ntnu.no:21091/img,301,Moved Permanently,42,319,173
+99,Thu Feb 04 00:00:51 CET 2021,Thu Feb 04 00:00:52 CET 2021,GET,http://molde.idi.ntnu.no:21091/scripts,301,Moved Permanently,38,323,181
+100,Thu Feb 04 00:00:52 CET 2021,Thu Feb 04 00:00:52 CET 2021,GET,http://molde.idi.ntnu.no:21091/styles,301,Moved Permanently,37,322,179
+101,Thu Feb 04 00:00:52 CET 2021,Thu Feb 04 00:00:52 CET 2021,GET,http://molde.idi.ntnu.no:21091/img,301,Moved Permanently,44,319,173
+102,Thu Feb 04 00:00:52 CET 2021,Thu Feb 04 00:00:52 CET 2021,GET,http://molde.idi.ntnu.no:21091/scripts,301,Moved Permanently,34,323,181
+103,Thu Feb 04 00:00:52 CET 2021,Thu Feb 04 00:00:52 CET 2021,GET,http://molde.idi.ntnu.no:21091/styles,301,Moved Permanently,36,322,179
+104,Thu Feb 04 00:00:52 CET 2021,Thu Feb 04 00:00:52 CET 2021,GET,http://molde.idi.ntnu.no:21091/elmah.axd,404,Not Found,36,294,148
+105,Thu Feb 04 00:00:52 CET 2021,Thu Feb 04 00:00:52 CET 2021,GET,http://molde.idi.ntnu.no:21091/.htaccess,404,Not Found,40,294,148
+106,Thu Feb 04 00:00:53 CET 2021,Thu Feb 04 00:00:53 CET 2021,GET,http://molde.idi.ntnu.no:21091/img,301,Moved Permanently,33,319,173
+107,Thu Feb 04 00:00:53 CET 2021,Thu Feb 04 00:00:53 CET 2021,GET,http://molde.idi.ntnu.no:21091/scripts,301,Moved Permanently,32,323,181
+108,Thu Feb 04 00:00:53 CET 2021,Thu Feb 04 00:00:53 CET 2021,GET,http://molde.idi.ntnu.no:21091/img/.htaccess,404,Not Found,35,294,152
+109,Thu Feb 04 00:00:53 CET 2021,Thu Feb 04 00:00:53 CET 2021,GET,http://molde.idi.ntnu.no:21091/scripts/.htaccess,404,Not Found,34,294,156
+110,Thu Feb 04 00:00:53 CET 2021,Thu Feb 04 00:00:53 CET 2021,GET,http://molde.idi.ntnu.no:21091/styles,301,Moved Permanently,48,322,179
+111,Thu Feb 04 00:00:53 CET 2021,Thu Feb 04 00:00:53 CET 2021,GET,http://molde.idi.ntnu.no:21091/styles/.htaccess,404,Not Found,48,294,155
+112,Thu Feb 04 00:00:53 CET 2021,Thu Feb 04 00:00:53 CET 2021,GET,http://molde.idi.ntnu.no:21091/img,301,Moved Permanently,41,319,173
+113,Thu Feb 04 00:00:58 CET 2021,Thu Feb 04 00:00:58 CET 2021,GET,http://molde.idi.ntnu.no:21091/,200,OK,49,339,1622
+114,Thu Feb 04 00:00:58 CET 2021,Thu Feb 04 00:00:58 CET 2021,GET,http://molde.idi.ntnu.no:21091/,200,OK,52,339,1622
+115,Thu Feb 04 00:00:59 CET 2021,Thu Feb 04 00:00:59 CET 2021,GET,https://firefox.settings.services.mozilla.com/v1/buckets/monitor/collections/changes/records?collection=message-groups&bucket=main,200,OK,224,784,179
+116,Thu Feb 04 00:00:59 CET 2021,Thu Feb 04 00:00:59 CET 2021,GET,https://firefox.settings.services.mozilla.com/v1/buckets/monitor/collections/changes/records?collection=message-groups&bucket=main,200,OK,244,784,179
+117,Thu Feb 04 00:00:59 CET 2021,Thu Feb 04 00:00:59 CET 2021,GET,http://molde.idi.ntnu.no:21091/styles/style.css,200,OK,60,338,1008
+118,Thu Feb 04 00:00:59 CET 2021,Thu Feb 04 00:00:59 CET 2021,GET,http://molde.idi.ntnu.no:21091/styles/style.css,200,OK,78,338,1008
+119,Thu Feb 04 00:00:59 CET 2021,Thu Feb 04 00:00:59 CET 2021,GET,http://molde.idi.ntnu.no:21091/scripts/navbar.js,200,OK,66,352,1736
+120,Thu Feb 04 00:00:59 CET 2021,Thu Feb 04 00:00:59 CET 2021,GET,http://molde.idi.ntnu.no:21091/scripts/scripts.js,200,OK,94,353,6218
+121,Thu Feb 04 00:00:59 CET 2021,Thu Feb 04 00:00:59 CET 2021,GET,http://molde.idi.ntnu.no:21091/scripts/navbar.js,200,OK,125,352,1736
+122,Thu Feb 04 00:00:59 CET 2021,Thu Feb 04 00:00:59 CET 2021,GET,http://molde.idi.ntnu.no:21091/scripts/scripts.js,200,OK,250,353,6218
+123,Thu Feb 04 00:00:59 CET 2021,Thu Feb 04 00:01:00 CET 2021,POST,https://shavar.services.mozilla.com/downloads?client=navclient-auto-ffox&appver=85.0&pver=2.2,200,OK,944,201,1901
+124,Thu Feb 04 00:00:59 CET 2021,Thu Feb 04 00:01:00 CET 2021,POST,https://shavar.services.mozilla.com/downloads?client=navclient-auto-ffox&appver=85.0&pver=2.2,200,OK,883,201,1901
+125,Thu Feb 04 00:01:00 CET 2021,Thu Feb 04 00:01:00 CET 2021,GET,https://kit.fontawesome.com/0ce6c392ca.js,200,OK,160,1035,10865
+126,Thu Feb 04 00:01:00 CET 2021,Thu Feb 04 00:01:00 CET 2021,GET,https://kit.fontawesome.com/0ce6c392ca.js,200,OK,202,1028,10865
+127,Thu Feb 04 00:00:59 CET 2021,Thu Feb 04 00:01:00 CET 2021,GET,https://push.services.mozilla.com/,101,Switching Protocols,1177,129,0
+128,Thu Feb 04 00:00:59 CET 2021,Thu Feb 04 00:01:00 CET 2021,GET,https://push.services.mozilla.com/,101,Switching Protocols,1199,129,0
+129,Thu Feb 04 00:01:00 CET 2021,Thu Feb 04 00:01:01 CET 2021,GET,https://firefox.settings.services.mozilla.com/v1/buckets/monitor/collections/changes/records?collection=partitioning-exempt-urls&bucket=main,200,OK,63,784,189
+130,Thu Feb 04 00:01:00 CET 2021,Thu Feb 04 00:01:01 CET 2021,GET,https://firefox.settings.services.mozilla.com/v1/buckets/monitor/collections/changes/records?collection=partitioning-exempt-urls&bucket=main,200,OK,73,784,189
+131,Thu Feb 04 00:01:01 CET 2021,Thu Feb 04 00:01:01 CET 2021,GET,https://firefox.settings.services.mozilla.com/v1/buckets/main/collections/partitioning-exempt-urls/changeset?_expected=1592906663254,200,OK,63,594,748
+132,Thu Feb 04 00:01:01 CET 2021,Thu Feb 04 00:01:01 CET 2021,GET,https://firefox.settings.services.mozilla.com/v1/buckets/main/collections/partitioning-exempt-urls/changeset?_expected=1592906663254,200,OK,63,594,748
+133,Thu Feb 04 00:01:00 CET 2021,Thu Feb 04 00:01:01 CET 2021,GET,https://cdn.jsdelivr.net/npm/bootstrap@5.0.0-beta1/dist/js/bootstrap.bundle.min.js,200,OK,299,900,80821
+134,Thu Feb 04 00:01:00 CET 2021,Thu Feb 04 00:01:01 CET 2021,GET,https://cdn.jsdelivr.net/npm/bootstrap@5.0.0-beta1/dist/js/bootstrap.bundle.min.js,200,OK,394,900,80821
+135,Thu Feb 04 00:01:00 CET 2021,Thu Feb 04 00:01:01 CET 2021,GET,https://cdn.jsdelivr.net/npm/bootstrap@5.0.0-beta1/dist/css/bootstrap.min.css,200,OK,384,886,153111
+136,Thu Feb 04 00:01:00 CET 2021,Thu Feb 04 00:01:01 CET 2021,GET,https://cdn.jsdelivr.net/npm/bootstrap@5.0.0-beta1/dist/css/bootstrap.min.css,200,OK,391,886,153111
+137,Thu Feb 04 00:01:01 CET 2021,Thu Feb 04 00:01:01 CET 2021,GET,https://firefox.settings.services.mozilla.com/v1/buckets/main/collections/message-groups/changeset?_expected=1595616291726,200,OK,94,596,1146
+138,Thu Feb 04 00:01:01 CET 2021,Thu Feb 04 00:01:01 CET 2021,GET,https://firefox.settings.services.mozilla.com/v1/buckets/main/collections/message-groups/changeset?_expected=1595616291726,200,OK,78,596,1146
+139,Thu Feb 04 00:01:01 CET 2021,Thu Feb 04 00:01:01 CET 2021,GET,http://molde.idi.ntnu.no:21091/img/fitness.jpg,200,OK,211,304,55502
+140,Thu Feb 04 00:01:01 CET 2021,Thu Feb 04 00:01:01 CET 2021,GET,http://molde.idi.ntnu.no:21091/img/fitness.jpg,200,OK,172,304,55502
+141,Thu Feb 04 00:01:01 CET 2021,Thu Feb 04 00:01:01 CET 2021,GET,https://tracking-protection.cdn.mozilla.net/ads-track-digest256/1611614019,200,OK,315,474,54582
+142,Thu Feb 04 00:01:01 CET 2021,Thu Feb 04 00:01:01 CET 2021,GET,https://tracking-protection.cdn.mozilla.net/ads-track-digest256/1611614019,200,OK,367,474,54582
+143,Thu Feb 04 00:01:01 CET 2021,Thu Feb 04 00:01:01 CET 2021,GET,https://content-signature-2.cdn.mozilla.net/chains/remote-settings.content-signature.mozilla.org-2021-03-22-17-58-04.chain,200,OK,232,506,5348
+144,Thu Feb 04 00:01:01 CET 2021,Thu Feb 04 00:01:01 CET 2021,GET,https://content-signature-2.cdn.mozilla.net/chains/remote-settings.content-signature.mozilla.org-2021-03-22-17-58-04.chain,200,OK,241,506,5348
+145,Thu Feb 04 00:01:01 CET 2021,Thu Feb 04 00:01:02 CET 2021,GET,http://molde.idi.ntnu.no:21091/favicon.ico,200,OK,69,327,1150
+146,Thu Feb 04 00:01:01 CET 2021,Thu Feb 04 00:01:02 CET 2021,GET,http://molde.idi.ntnu.no:21091/favicon.ico,200,OK,82,327,1150
+147,Thu Feb 04 00:01:02 CET 2021,Thu Feb 04 00:01:02 CET 2021,GET,https://content-signature-2.cdn.mozilla.net/chains/remote-settings.content-signature.mozilla.org-2021-03-22-17-58-04.chain,200,OK,53,506,5348
+148,Thu Feb 04 00:01:02 CET 2021,Thu Feb 04 00:01:02 CET 2021,GET,https://content-signature-2.cdn.mozilla.net/chains/remote-settings.content-signature.mozilla.org-2021-03-22-17-58-04.chain,200,OK,53,506,5348
+149,Thu Feb 04 00:01:02 CET 2021,Thu Feb 04 00:01:02 CET 2021,GET,https://firefox.settings.services.mozilla.com/v1/buckets/monitor/collections/changes/records?collection=cfr-fxa&bucket=main,200,OK,74,784,172
+150,Thu Feb 04 00:01:02 CET 2021,Thu Feb 04 00:01:02 CET 2021,GET,https://tracking-protection.cdn.mozilla.net/social-track-digest256/1604686195,200,OK,140,473,2101
+151,Thu Feb 04 00:01:02 CET 2021,Thu Feb 04 00:01:02 CET 2021,GET,https://tracking-protection.cdn.mozilla.net/social-track-digest256/1604686195,200,OK,157,473,2101
+152,Thu Feb 04 00:01:02 CET 2021,Thu Feb 04 00:01:02 CET 2021,GET,https://firefox.settings.services.mozilla.com/v1/buckets/monitor/collections/changes/records?collection=cfr-fxa&bucket=main,200,OK,46,784,172
+153,Thu Feb 04 00:01:02 CET 2021,Thu Feb 04 00:01:02 CET 2021,GET,https://ka-f.fontawesome.com/releases/v5.15.2/css/free-v4-shims.min.css?token=0ce6c392ca,200,OK,234,1258,26701
+154,Thu Feb 04 00:01:02 CET 2021,Thu Feb 04 00:01:02 CET 2021,GET,https://ka-f.fontawesome.com/releases/v5.15.2/css/free-v4-shims.min.css?token=0ce6c392ca,200,OK,274,1266,26701
+155,Thu Feb 04 00:01:02 CET 2021,Thu Feb 04 00:01:02 CET 2021,GET,https://ka-f.fontawesome.com/releases/v5.15.2/css/free-v4-font-face.min.css?token=0ce6c392ca,200,OK,276,1260,2956
+156,Thu Feb 04 00:01:02 CET 2021,Thu Feb 04 00:01:02 CET 2021,GET,https://ka-f.fontawesome.com/releases/v5.15.2/css/free-v4-font-face.min.css?token=0ce6c392ca,200,OK,279,1254,2956
+157,Thu Feb 04 00:01:02 CET 2021,Thu Feb 04 00:01:02 CET 2021,GET,https://ka-f.fontawesome.com/releases/v5.15.2/css/free.min.css?token=0ce6c392ca,200,OK,291,1258,60351
+158,Thu Feb 04 00:01:02 CET 2021,Thu Feb 04 00:01:02 CET 2021,GET,https://ka-f.fontawesome.com/releases/v5.15.2/css/free.min.css?token=0ce6c392ca,200,OK,297,1262,60351
+159,Thu Feb 04 00:01:02 CET 2021,Thu Feb 04 00:01:02 CET 2021,GET,https://firefox.settings.services.mozilla.com/v1/buckets/main/collections/cfr-fxa/changeset?_expected=1609784305674,200,OK,125,596,1503
+160,Thu Feb 04 00:01:02 CET 2021,Thu Feb 04 00:01:02 CET 2021,GET,https://firefox.settings.services.mozilla.com/v1/buckets/main/collections/cfr-fxa/changeset?_expected=1609784305674,200,OK,94,596,1503
+161,Thu Feb 04 00:01:02 CET 2021,Thu Feb 04 00:01:02 CET 2021,GET,https://tracking-protection.cdn.mozilla.net/analytics-track-digest256/1604686195,200,OK,155,473,9845
+162,Thu Feb 04 00:01:02 CET 2021,Thu Feb 04 00:01:02 CET 2021,GET,https://content-signature-2.cdn.mozilla.net/chains/remote-settings.content-signature.mozilla.org-2021-03-22-17-58-04.chain,200,OK,51,506,5348
+163,Thu Feb 04 00:01:02 CET 2021,Thu Feb 04 00:01:02 CET 2021,GET,https://content-signature-2.cdn.mozilla.net/chains/remote-settings.content-signature.mozilla.org-2021-03-22-17-58-04.chain,200,OK,50,506,5348
+164,Thu Feb 04 00:01:02 CET 2021,Thu Feb 04 00:01:02 CET 2021,GET,https://tracking-protection.cdn.mozilla.net/analytics-track-digest256/1604686195,200,OK,157,473,9845
+165,Thu Feb 04 00:01:02 CET 2021,Thu Feb 04 00:01:02 CET 2021,GET,https://firefox.settings.services.mozilla.com/v1/buckets/monitor/collections/changes/records?collection=cfr&bucket=main,200,OK,57,784,168
+166,Thu Feb 04 00:01:02 CET 2021,Thu Feb 04 00:01:02 CET 2021,GET,https://firefox.settings.services.mozilla.com/v1/buckets/monitor/collections/changes/records?collection=cfr&bucket=main,200,OK,43,784,168
+167,Thu Feb 04 00:01:02 CET 2021,Thu Feb 04 00:01:02 CET 2021,GET,https://tracking-protection.cdn.mozilla.net/content-track-digest256/1604686195,200,OK,133,474,15510
+168,Thu Feb 04 00:01:02 CET 2021,Thu Feb 04 00:01:02 CET 2021,GET,https://firefox.settings.services.mozilla.com/v1/buckets/main/collections/cfr/changeset?_expected=1612312953148,200,OK,82,597,21510
+169,Thu Feb 04 00:01:02 CET 2021,Thu Feb 04 00:01:02 CET 2021,GET,https://firefox.settings.services.mozilla.com/v1/buckets/main/collections/cfr/changeset?_expected=1612312953148,200,OK,62,597,21510
+170,Thu Feb 04 00:01:02 CET 2021,Thu Feb 04 00:01:02 CET 2021,GET,https://tracking-protection.cdn.mozilla.net/content-track-digest256/1604686195,200,OK,143,474,15510
+171,Thu Feb 04 00:01:02 CET 2021,Thu Feb 04 00:01:03 CET 2021,GET,http://molde.idi.ntnu.no:21091/index.html,200,OK,90,339,1622
+172,Thu Feb 04 00:01:03 CET 2021,Thu Feb 04 00:01:03 CET 2021,GET,http://molde.idi.ntnu.no:21091/index.html,200,OK,61,339,1622
+173,Thu Feb 04 00:01:03 CET 2021,Thu Feb 04 00:01:03 CET 2021,GET,https://content-signature-2.cdn.mozilla.net/chains/remote-settings.content-signature.mozilla.org-2021-03-22-17-58-04.chain,200,OK,50,506,5348
+174,Thu Feb 04 00:01:03 CET 2021,Thu Feb 04 00:01:03 CET 2021,GET,https://content-signature-2.cdn.mozilla.net/chains/remote-settings.content-signature.mozilla.org-2021-03-22-17-58-04.chain,200,OK,51,506,5348
+175,Thu Feb 04 00:01:03 CET 2021,Thu Feb 04 00:01:03 CET 2021,GET,http://molde.idi.ntnu.no:21091/styles/style.css,200,OK,102,338,1008
+176,Thu Feb 04 00:01:03 CET 2021,Thu Feb 04 00:01:03 CET 2021,GET,http://molde.idi.ntnu.no:21091/scripts/navbar.js,200,OK,104,352,1736
+177,Thu Feb 04 00:01:03 CET 2021,Thu Feb 04 00:01:03 CET 2021,GET,http://molde.idi.ntnu.no:21091/scripts/scripts.js,200,OK,124,353,6218
+178,Thu Feb 04 00:01:03 CET 2021,Thu Feb 04 00:01:03 CET 2021,GET,http://molde.idi.ntnu.no:21091/styles/style.css,200,OK,122,338,1008
+179,Thu Feb 04 00:01:03 CET 2021,Thu Feb 04 00:01:03 CET 2021,GET,https://tracking-protection.cdn.mozilla.net/mozstd-trackwhite-digest256/1611614019,200,OK,472,475,299831
+180,Thu Feb 04 00:01:03 CET 2021,Thu Feb 04 00:01:03 CET 2021,GET,https://tracking-protection.cdn.mozilla.net/mozstd-trackwhite-digest256/1611614019,200,OK,433,475,299831
+181,Thu Feb 04 00:01:03 CET 2021,Thu Feb 04 00:01:03 CET 2021,GET,https://kit.fontawesome.com/0ce6c392ca.js,200,OK,123,1028,10865
+182,Thu Feb 04 00:01:03 CET 2021,Thu Feb 04 00:01:03 CET 2021,GET,http://molde.idi.ntnu.no:21091/scripts/scripts.js,200,OK,206,353,6218
+183,Thu Feb 04 00:01:03 CET 2021,Thu Feb 04 00:01:03 CET 2021,GET,http://molde.idi.ntnu.no:21091/scripts/navbar.js,200,OK,206,352,1736
+184,Thu Feb 04 00:01:03 CET 2021,Thu Feb 04 00:01:03 CET 2021,GET,http://molde.idi.ntnu.no:21091/img/fitness.jpg,200,OK,279,304,55502
+185,Thu Feb 04 00:01:03 CET 2021,Thu Feb 04 00:01:03 CET 2021,GET,http://molde.idi.ntnu.no:21091/img/fitness.jpg,200,OK,160,304,55502
+186,Thu Feb 04 00:01:03 CET 2021,Thu Feb 04 00:01:03 CET 2021,GET,http://molde.idi.ntnu.no:21091/,200,OK,60,339,1622
+187,Thu Feb 04 00:01:03 CET 2021,Thu Feb 04 00:01:03 CET 2021,GET,http://molde.idi.ntnu.no:21091/,200,OK,50,339,1622
+188,Thu Feb 04 00:01:03 CET 2021,Thu Feb 04 00:01:04 CET 2021,GET,http://molde.idi.ntnu.no:21091/scripts/scripts.js,200,OK,78,353,6218
+189,Thu Feb 04 00:01:03 CET 2021,Thu Feb 04 00:01:04 CET 2021,GET,http://molde.idi.ntnu.no:21091/scripts/navbar.js,200,OK,79,352,1736
+190,Thu Feb 04 00:01:03 CET 2021,Thu Feb 04 00:01:04 CET 2021,GET,http://molde.idi.ntnu.no:21091/styles/style.css,200,OK,88,338,1008
+191,Thu Feb 04 00:01:04 CET 2021,Thu Feb 04 00:01:04 CET 2021,GET,http://molde.idi.ntnu.no:21091/scripts/navbar.js,200,OK,142,352,1736
+192,Thu Feb 04 00:01:04 CET 2021,Thu Feb 04 00:01:04 CET 2021,GET,http://molde.idi.ntnu.no:21091/styles/style.css,200,OK,147,338,1008
+193,Thu Feb 04 00:01:04 CET 2021,Thu Feb 04 00:01:04 CET 2021,GET,http://molde.idi.ntnu.no:21091/scripts/scripts.js,200,OK,159,353,6218
+194,Thu Feb 04 00:01:04 CET 2021,Thu Feb 04 00:01:04 CET 2021,GET,http://molde.idi.ntnu.no:21091/img/fitness.jpg,200,OK,327,304,55502
+195,Thu Feb 04 00:01:04 CET 2021,Thu Feb 04 00:01:04 CET 2021,GET,http://molde.idi.ntnu.no:21091/img/fitness.jpg,200,OK,285,304,55502
+196,Thu Feb 04 00:01:03 CET 2021,Thu Feb 04 00:01:03 CET 2021,GET,https://snippets.cdn.mozilla.net/6/Firefox/85.0/20210118153634/WINNT_x86_64-msvc/nb-NO/release/Windows_NT%2010.0/default/default/,200,OK,233,519,3
+197,Thu Feb 04 00:01:04 CET 2021,Thu Feb 04 00:01:04 CET 2021,GET,http://molde.idi.ntnu.no:21091/register.html,200,OK,166,339,3133
+198,Thu Feb 04 00:01:03 CET 2021,Thu Feb 04 00:01:04 CET 2021,GET,https://tracking-protection.cdn.mozilla.net/google-trackwhite-digest256/1604686195,200,OK,1073,476,1470328
+199,Thu Feb 04 00:01:03 CET 2021,Thu Feb 04 00:01:04 CET 2021,GET,https://snippets.cdn.mozilla.net/6/Firefox/85.0/20210118153634/WINNT_x86_64-msvc/nb-NO/release/Windows_NT%2010.0/default/default/,200,OK,262,519,3
+200,Thu Feb 04 00:01:04 CET 2021,Thu Feb 04 00:01:04 CET 2021,GET,http://molde.idi.ntnu.no:21091/register.html,200,OK,133,339,3133
+201,Thu Feb 04 00:01:04 CET 2021,Thu Feb 04 00:01:04 CET 2021,GET,https://firefox.settings.services.mozilla.com/v1/buckets/monitor/collections/changes/records?collection=whats-new-panel&bucket=main,200,OK,83,784,180
+202,Thu Feb 04 00:01:04 CET 2021,Thu Feb 04 00:01:04 CET 2021,GET,http://molde.idi.ntnu.no:21091/scripts/navbar.js,200,OK,62,352,1736
+203,Thu Feb 04 00:01:04 CET 2021,Thu Feb 04 00:01:04 CET 2021,GET,http://molde.idi.ntnu.no:21091/styles/style.css,200,OK,62,338,1008
+204,Thu Feb 04 00:01:04 CET 2021,Thu Feb 04 00:01:04 CET 2021,GET,http://molde.idi.ntnu.no:21091/scripts/defaults.js,200,OK,85,349,47
+205,Thu Feb 04 00:01:04 CET 2021,Thu Feb 04 00:01:04 CET 2021,GET,http://molde.idi.ntnu.no:21091/scripts/scripts.js,200,OK,85,353,6218
+206,Thu Feb 04 00:01:03 CET 2021,Thu Feb 04 00:01:04 CET 2021,GET,https://tracking-protection.cdn.mozilla.net/google-trackwhite-digest256/1604686195,200,OK,1227,476,1470328
+207,Thu Feb 04 00:01:04 CET 2021,Thu Feb 04 00:01:04 CET 2021,GET,http://molde.idi.ntnu.no:21091/scripts/register.js,200,OK,69,352,1267
+208,Thu Feb 04 00:01:04 CET 2021,Thu Feb 04 00:01:05 CET 2021,GET,https://firefox.settings.services.mozilla.com/v1/buckets/main/collections/whats-new-panel/changeset?_expected=1611670765047,200,OK,116,596,7502
+209,Thu Feb 04 00:01:05 CET 2021,Thu Feb 04 00:01:05 CET 2021,GET,http://molde.idi.ntnu.no:21091/scripts/defaults.js,200,OK,116,349,47
+210,Thu Feb 04 00:01:05 CET 2021,Thu Feb 04 00:01:05 CET 2021,GET,http://molde.idi.ntnu.no:21091/scripts/scripts.js,200,OK,132,353,6218
+211,Thu Feb 04 00:01:04 CET 2021,Thu Feb 04 00:01:05 CET 2021,GET,http://molde.idi.ntnu.no:21091/styles/style.css,200,OK,147,338,1008
+212,Thu Feb 04 00:01:04 CET 2021,Thu Feb 04 00:01:05 CET 2021,GET,http://molde.idi.ntnu.no:21091/scripts/navbar.js,200,OK,116,352,1736
+213,Thu Feb 04 00:01:04 CET 2021,Thu Feb 04 00:01:05 CET 2021,GET,https://tracking-protection.cdn.mozilla.net/allow-flashallow-digest256/1490633678,200,OK,138,471,51
+214,Thu Feb 04 00:01:05 CET 2021,Thu Feb 04 00:01:05 CET 2021,GET,https://firefox.settings.services.mozilla.com/v1/buckets/monitor/collections/changes/records?collection=whats-new-panel&bucket=main,200,OK,53,784,180
+215,Thu Feb 04 00:01:05 CET 2021,Thu Feb 04 00:01:05 CET 2021,GET,http://molde.idi.ntnu.no:21091/scripts/register.js,200,OK,115,352,1267
+216,Thu Feb 04 00:01:05 CET 2021,Thu Feb 04 00:01:05 CET 2021,GET,https://content-signature-2.cdn.mozilla.net/chains/remote-settings.content-signature.mozilla.org-2021-03-22-17-58-04.chain,200,OK,55,506,5348
+217,Thu Feb 04 00:01:05 CET 2021,Thu Feb 04 00:01:05 CET 2021,GET,https://firefox.settings.services.mozilla.com/v1/buckets/main/collections/whats-new-panel/changeset?_expected=1611670765047,200,OK,55,596,7502
+218,Thu Feb 04 00:01:05 CET 2021,Thu Feb 04 00:01:05 CET 2021,GET,http://molde.idi.ntnu.no:21091/,200,OK,62,339,1622
+219,Thu Feb 04 00:01:05 CET 2021,Thu Feb 04 00:01:05 CET 2021,GET,https://tracking-protection.cdn.mozilla.net/allow-flashallow-digest256/1490633678,200,OK,143,471,51
+220,Thu Feb 04 00:01:05 CET 2021,Thu Feb 04 00:01:05 CET 2021,GET,https://content-signature-2.cdn.mozilla.net/chains/remote-settings.content-signature.mozilla.org-2021-03-22-17-58-04.chain,200,OK,69,506,5348
+221,Thu Feb 04 00:01:05 CET 2021,Thu Feb 04 00:01:05 CET 2021,GET,https://tracking-protection.cdn.mozilla.net/except-flashallow-digest256/1490633678,200,OK,163,471,51
+222,Thu Feb 04 00:01:05 CET 2021,Thu Feb 04 00:01:05 CET 2021,GET,https://ka-f.fontawesome.com/releases/v5.15.2/webfonts/free-fa-solid-900.woff,200,OK,117,1284,104280
+223,Thu Feb 04 00:01:05 CET 2021,Thu Feb 04 00:01:05 CET 2021,GET,http://molde.idi.ntnu.no:21091/,200,OK,57,339,1622
+224,Thu Feb 04 00:01:05 CET 2021,Thu Feb 04 00:01:05 CET 2021,GET,https://tracking-protection.cdn.mozilla.net/block-flash-digest256/1604686195,200,OK,141,473,6645
+225,Thu Feb 04 00:01:05 CET 2021,Thu Feb 04 00:01:05 CET 2021,GET,http://molde.idi.ntnu.no:21091/scripts/navbar.js,200,OK,101,352,1736
+226,Thu Feb 04 00:01:05 CET 2021,Thu Feb 04 00:01:05 CET 2021,GET,https://tracking-protection.cdn.mozilla.net/except-flashallow-digest256/1490633678,200,OK,130,471,51
+227,Thu Feb 04 00:01:05 CET 2021,Thu Feb 04 00:01:05 CET 2021,GET,http://molde.idi.ntnu.no:21091/styles/style.css,200,OK,97,338,1008
+228,Thu Feb 04 00:01:05 CET 2021,Thu Feb 04 00:01:05 CET 2021,GET,http://molde.idi.ntnu.no:21091/scripts/scripts.js,200,OK,157,353,6218
+229,Thu Feb 04 00:01:05 CET 2021,Thu Feb 04 00:01:05 CET 2021,GET,https://ka-f.fontawesome.com/releases/v5.15.2/webfonts/free-fa-solid-900.woff,200,OK,98,1293,104280
+230,Thu Feb 04 00:01:05 CET 2021,Thu Feb 04 00:01:05 CET 2021,GET,http://molde.idi.ntnu.no:21091/styles/style.css,200,OK,60,338,1008
+231,Thu Feb 04 00:01:05 CET 2021,Thu Feb 04 00:01:05 CET 2021,GET,http://molde.idi.ntnu.no:21091/img/fitness.jpg,200,OK,189,304,55502
+232,Thu Feb 04 00:01:05 CET 2021,Thu Feb 04 00:01:05 CET 2021,GET,http://molde.idi.ntnu.no:21091/scripts/navbar.js,200,OK,94,352,1736
+233,Thu Feb 04 00:01:05 CET 2021,Thu Feb 04 00:01:05 CET 2021,GET,https://tracking-protection.cdn.mozilla.net/block-flash-digest256/1604686195,200,OK,138,473,6645
+234,Thu Feb 04 00:01:05 CET 2021,Thu Feb 04 00:01:05 CET 2021,GET,http://molde.idi.ntnu.no:21091/scripts/scripts.js,200,OK,145,353,6218
+235,Thu Feb 04 00:01:05 CET 2021,Thu Feb 04 00:01:06 CET 2021,GET,http://molde.idi.ntnu.no:21091/img/fitness.jpg,200,OK,123,304,55502
+236,Thu Feb 04 00:01:05 CET 2021,Thu Feb 04 00:01:06 CET 2021,GET,https://tracking-protection.cdn.mozilla.net/except-flash-digest256/1604686195,200,OK,139,471,83
+237,Thu Feb 04 00:01:06 CET 2021,Thu Feb 04 00:01:06 CET 2021,GET,https://tracking-protection.cdn.mozilla.net/except-flash-digest256/1604686195,200,OK,138,471,83
+238,Thu Feb 04 00:01:06 CET 2021,Thu Feb 04 00:01:06 CET 2021,GET,https://tracking-protection.cdn.mozilla.net/block-flashsubdoc-digest256/1604686195,200,OK,171,474,73398
+239,Thu Feb 04 00:01:06 CET 2021,Thu Feb 04 00:01:06 CET 2021,GET,https://tracking-protection.cdn.mozilla.net/block-flashsubdoc-digest256/1604686195,200,OK,161,474,73398
+240,Thu Feb 04 00:01:06 CET 2021,Thu Feb 04 00:01:06 CET 2021,GET,https://tracking-protection.cdn.mozilla.net/except-flashsubdoc-digest256/1517935265,200,OK,121,472,115
+241,Thu Feb 04 00:01:06 CET 2021,Thu Feb 04 00:01:06 CET 2021,GET,https://tracking-protection.cdn.mozilla.net/except-flashsubdoc-digest256/1517935265,200,OK,120,472,115
+242,Thu Feb 04 00:01:06 CET 2021,Thu Feb 04 00:01:06 CET 2021,GET,https://tracking-protection.cdn.mozilla.net/base-fingerprinting-track-digest256/1608186823,200,OK,116,473,3221
+243,Thu Feb 04 00:01:06 CET 2021,Thu Feb 04 00:01:06 CET 2021,GET,https://tracking-protection.cdn.mozilla.net/base-fingerprinting-track-digest256/1608186823,200,OK,121,473,3221
+244,Thu Feb 04 00:01:06 CET 2021,Thu Feb 04 00:01:06 CET 2021,GET,https://tracking-protection.cdn.mozilla.net/base-cryptomining-track-digest256/1604686195,200,OK,171,461,2261
+245,Thu Feb 04 00:01:06 CET 2021,Thu Feb 04 00:01:06 CET 2021,GET,https://tracking-protection.cdn.mozilla.net/base-cryptomining-track-digest256/1604686195,200,OK,118,461,2261
+246,Thu Feb 04 00:01:06 CET 2021,Thu Feb 04 00:01:07 CET 2021,GET,https://tracking-protection.cdn.mozilla.net/social-tracking-protection-facebook-digest256/1604686195,200,OK,130,472,436
+247,Thu Feb 04 00:01:06 CET 2021,Thu Feb 04 00:01:07 CET 2021,GET,https://tracking-protection.cdn.mozilla.net/social-tracking-protection-facebook-digest256/1604686195,200,OK,125,472,436
+248,Thu Feb 04 00:01:07 CET 2021,Thu Feb 04 00:01:07 CET 2021,GET,https://tracking-protection.cdn.mozilla.net/social-tracking-protection-linkedin-digest256/1564526481,200,OK,135,472,115
+249,Thu Feb 04 00:01:07 CET 2021,Thu Feb 04 00:01:07 CET 2021,GET,https://tracking-protection.cdn.mozilla.net/social-tracking-protection-linkedin-digest256/1564526481,200,OK,154,472,115
+250,Thu Feb 04 00:01:07 CET 2021,Thu Feb 04 00:01:07 CET 2021,GET,https://tracking-protection.cdn.mozilla.net/social-tracking-protection-twitter-digest256/1604686195,200,OK,120,472,212
+251,Thu Feb 04 00:01:07 CET 2021,Thu Feb 04 00:01:07 CET 2021,GET,https://tracking-protection.cdn.mozilla.net/social-tracking-protection-twitter-digest256/1604686195,200,OK,123,472,212
+252,Thu Feb 04 00:01:07 CET 2021,Thu Feb 04 00:01:07 CET 2021,GET,http://molde.idi.ntnu.no:21091/index.html,200,OK,39,339,1622
+253,Thu Feb 04 00:01:07 CET 2021,Thu Feb 04 00:01:07 CET 2021,GET,http://molde.idi.ntnu.no:21091/styles/style.css,200,OK,48,338,1008
+254,Thu Feb 04 00:01:07 CET 2021,Thu Feb 04 00:01:07 CET 2021,GET,http://molde.idi.ntnu.no:21091/scripts/navbar.js,200,OK,50,352,1736
+255,Thu Feb 04 00:01:07 CET 2021,Thu Feb 04 00:01:07 CET 2021,GET,http://molde.idi.ntnu.no:21091/scripts/scripts.js,200,OK,50,353,6218
+256,Thu Feb 04 00:01:07 CET 2021,Thu Feb 04 00:01:07 CET 2021,GET,http://molde.idi.ntnu.no:21091/index.html,200,OK,51,339,1622
+257,Thu Feb 04 00:01:07 CET 2021,Thu Feb 04 00:01:07 CET 2021,GET,http://molde.idi.ntnu.no:21091/img/fitness.jpg,200,OK,104,304,55502
+258,Thu Feb 04 00:01:07 CET 2021,Thu Feb 04 00:01:08 CET 2021,GET,http://molde.idi.ntnu.no:21091/styles/style.css,200,OK,64,338,1008
+259,Thu Feb 04 00:01:07 CET 2021,Thu Feb 04 00:01:08 CET 2021,GET,http://molde.idi.ntnu.no:21091/scripts/navbar.js,200,OK,64,352,1736
+260,Thu Feb 04 00:01:07 CET 2021,Thu Feb 04 00:01:08 CET 2021,GET,http://molde.idi.ntnu.no:21091/scripts/scripts.js,200,OK,67,353,6218
+261,Thu Feb 04 00:01:08 CET 2021,Thu Feb 04 00:01:08 CET 2021,GET,http://molde.idi.ntnu.no:21091/,200,OK,47,339,1622
+262,Thu Feb 04 00:01:08 CET 2021,Thu Feb 04 00:01:08 CET 2021,GET,http://molde.idi.ntnu.no:21091/img/fitness.jpg,200,OK,96,304,55502
+263,Thu Feb 04 00:01:08 CET 2021,Thu Feb 04 00:01:08 CET 2021,GET,http://molde.idi.ntnu.no:21091/styles/style.css,200,OK,48,338,1008
+264,Thu Feb 04 00:01:08 CET 2021,Thu Feb 04 00:01:08 CET 2021,GET,http://molde.idi.ntnu.no:21091/scripts/navbar.js,200,OK,48,352,1736
+265,Thu Feb 04 00:01:08 CET 2021,Thu Feb 04 00:01:08 CET 2021,GET,http://molde.idi.ntnu.no:21091/scripts/scripts.js,200,OK,50,353,6218
+266,Thu Feb 04 00:01:08 CET 2021,Thu Feb 04 00:01:08 CET 2021,GET,http://molde.idi.ntnu.no:21091/,200,OK,52,339,1622
+267,Thu Feb 04 00:01:08 CET 2021,Thu Feb 04 00:01:08 CET 2021,GET,http://molde.idi.ntnu.no:21091/img/fitness.jpg,200,OK,101,304,55502
+268,Thu Feb 04 00:01:08 CET 2021,Thu Feb 04 00:01:08 CET 2021,GET,http://molde.idi.ntnu.no:21091/scripts/navbar.js,200,OK,57,352,1736
+269,Thu Feb 04 00:01:08 CET 2021,Thu Feb 04 00:01:08 CET 2021,GET,http://molde.idi.ntnu.no:21091/styles/style.css,200,OK,64,338,1008
+270,Thu Feb 04 00:01:08 CET 2021,Thu Feb 04 00:01:08 CET 2021,GET,http://molde.idi.ntnu.no:21091/scripts/scripts.js,200,OK,64,353,6218
+271,Thu Feb 04 00:01:08 CET 2021,Thu Feb 04 00:01:08 CET 2021,GET,http://molde.idi.ntnu.no:21091/img/fitness.jpg,200,OK,77,304,55502
+272,Thu Feb 04 00:01:08 CET 2021,Thu Feb 04 00:01:08 CET 2021,GET,http://molde.idi.ntnu.no:21091/register.html,200,OK,43,339,3133
+273,Thu Feb 04 00:01:08 CET 2021,Thu Feb 04 00:01:08 CET 2021,GET,http://molde.idi.ntnu.no:21091/register.html,200,OK,45,339,3133
+274,Thu Feb 04 00:01:08 CET 2021,Thu Feb 04 00:01:08 CET 2021,GET,http://molde.idi.ntnu.no:21091/scripts/defaults.js,200,OK,61,349,47
+275,Thu Feb 04 00:01:08 CET 2021,Thu Feb 04 00:01:08 CET 2021,GET,http://molde.idi.ntnu.no:21091/scripts/navbar.js,200,OK,71,352,1736
+276,Thu Feb 04 00:01:08 CET 2021,Thu Feb 04 00:01:08 CET 2021,GET,http://molde.idi.ntnu.no:21091/styles/style.css,200,OK,86,338,1008
+277,Thu Feb 04 00:01:08 CET 2021,Thu Feb 04 00:01:08 CET 2021,GET,http://molde.idi.ntnu.no:21091/scripts/register.js,200,OK,67,352,1267
+278,Thu Feb 04 00:01:08 CET 2021,Thu Feb 04 00:01:08 CET 2021,GET,http://molde.idi.ntnu.no:21091/scripts/scripts.js,200,OK,95,353,6218
+279,Thu Feb 04 00:01:08 CET 2021,Thu Feb 04 00:01:08 CET 2021,GET,http://molde.idi.ntnu.no:21091/styles/style.css,200,OK,49,338,1008
+280,Thu Feb 04 00:01:08 CET 2021,Thu Feb 04 00:01:08 CET 2021,GET,http://molde.idi.ntnu.no:21091/scripts/navbar.js,200,OK,53,352,1736
+281,Thu Feb 04 00:01:08 CET 2021,Thu Feb 04 00:01:08 CET 2021,GET,http://molde.idi.ntnu.no:21091/scripts/defaults.js,200,OK,52,349,47
+282,Thu Feb 04 00:01:08 CET 2021,Thu Feb 04 00:01:08 CET 2021,GET,http://molde.idi.ntnu.no:21091/scripts/scripts.js,200,OK,66,353,6218
+283,Thu Feb 04 00:01:08 CET 2021,Thu Feb 04 00:01:08 CET 2021,GET,http://molde.idi.ntnu.no:21091/scripts/register.js,200,OK,57,352,1267
+284,Thu Feb 04 00:01:08 CET 2021,Thu Feb 04 00:01:08 CET 2021,GET,http://molde.idi.ntnu.no:21091/,200,OK,48,339,1622
+285,Thu Feb 04 00:01:08 CET 2021,Thu Feb 04 00:01:08 CET 2021,GET,http://molde.idi.ntnu.no:21091/,200,OK,43,339,1622
+286,Thu Feb 04 00:01:08 CET 2021,Thu Feb 04 00:01:09 CET 2021,GET,http://molde.idi.ntnu.no:21091/scripts/navbar.js,200,OK,51,352,1736
+287,Thu Feb 04 00:01:08 CET 2021,Thu Feb 04 00:01:09 CET 2021,GET,http://molde.idi.ntnu.no:21091/styles/style.css,200,OK,55,338,1008
+288,Thu Feb 04 00:01:08 CET 2021,Thu Feb 04 00:01:09 CET 2021,GET,http://molde.idi.ntnu.no:21091/scripts/scripts.js,200,OK,57,353,6218
+289,Thu Feb 04 00:01:09 CET 2021,Thu Feb 04 00:01:09 CET 2021,GET,http://molde.idi.ntnu.no:21091/img/fitness.jpg,200,OK,103,304,55502
+290,Thu Feb 04 00:01:09 CET 2021,Thu Feb 04 00:01:09 CET 2021,GET,http://molde.idi.ntnu.no:21091/styles/style.css,200,OK,55,338,1008
+291,Thu Feb 04 00:01:09 CET 2021,Thu Feb 04 00:01:09 CET 2021,GET,http://molde.idi.ntnu.no:21091/scripts/navbar.js,200,OK,59,352,1736
+292,Thu Feb 04 00:01:09 CET 2021,Thu Feb 04 00:01:09 CET 2021,GET,http://molde.idi.ntnu.no:21091/scripts/scripts.js,200,OK,57,353,6218
+293,Thu Feb 04 00:01:09 CET 2021,Thu Feb 04 00:01:09 CET 2021,GET,http://molde.idi.ntnu.no:21091/img/fitness.jpg,200,OK,97,304,55502
+294,Thu Feb 04 00:01:09 CET 2021,Thu Feb 04 00:01:10 CET 2021,GET,http://molde.idi.ntnu.no:21091/?name=abc,200,OK,39,339,1622
+295,Thu Feb 04 00:01:10 CET 2021,Thu Feb 04 00:01:10 CET 2021,GET,http://molde.idi.ntnu.no:21091/scripts/navbar.js,200,OK,38,352,1736
+296,Thu Feb 04 00:01:10 CET 2021,Thu Feb 04 00:01:10 CET 2021,GET,http://molde.idi.ntnu.no:21091/styles/style.css,200,OK,39,338,1008
+297,Thu Feb 04 00:01:10 CET 2021,Thu Feb 04 00:01:10 CET 2021,GET,http://molde.idi.ntnu.no:21091/scripts/scripts.js,200,OK,50,353,6218
+298,Thu Feb 04 00:01:10 CET 2021,Thu Feb 04 00:01:10 CET 2021,GET,http://molde.idi.ntnu.no:21091/?name=abc,200,OK,53,339,1622
+299,Thu Feb 04 00:01:10 CET 2021,Thu Feb 04 00:01:10 CET 2021,GET,http://molde.idi.ntnu.no:21091/img/fitness.jpg,200,OK,112,304,55502
+300,Thu Feb 04 00:01:10 CET 2021,Thu Feb 04 00:01:10 CET 2021,GET,http://molde.idi.ntnu.no:21091/styles/style.css,200,OK,48,338,1008
+301,Thu Feb 04 00:01:10 CET 2021,Thu Feb 04 00:01:10 CET 2021,GET,http://molde.idi.ntnu.no:21091/scripts/navbar.js,200,OK,48,352,1736
+302,Thu Feb 04 00:01:10 CET 2021,Thu Feb 04 00:01:10 CET 2021,GET,http://molde.idi.ntnu.no:21091/scripts/scripts.js,200,OK,60,353,6218
+303,Thu Feb 04 00:01:10 CET 2021,Thu Feb 04 00:01:10 CET 2021,GET,http://molde.idi.ntnu.no:21091/img/fitness.jpg,200,OK,101,304,55502
+304,Thu Feb 04 00:01:11 CET 2021,Thu Feb 04 00:01:11 CET 2021,GET,http://molde.idi.ntnu.no:21091/index.html,200,OK,35,339,1622
+305,Thu Feb 04 00:01:11 CET 2021,Thu Feb 04 00:01:11 CET 2021,GET,http://molde.idi.ntnu.no:21091/styles/style.css,200,OK,43,338,1008
+306,Thu Feb 04 00:01:11 CET 2021,Thu Feb 04 00:01:11 CET 2021,GET,http://molde.idi.ntnu.no:21091/scripts/navbar.js,200,OK,43,352,1736
+307,Thu Feb 04 00:01:11 CET 2021,Thu Feb 04 00:01:11 CET 2021,GET,http://molde.idi.ntnu.no:21091/scripts/scripts.js,200,OK,49,353,6218
+308,Thu Feb 04 00:01:11 CET 2021,Thu Feb 04 00:01:11 CET 2021,GET,http://molde.idi.ntnu.no:21091/index.html,200,OK,45,339,1622
+309,Thu Feb 04 00:01:11 CET 2021,Thu Feb 04 00:01:11 CET 2021,GET,http://molde.idi.ntnu.no:21091/img/fitness.jpg,200,OK,97,304,55502
+310,Thu Feb 04 00:01:11 CET 2021,Thu Feb 04 00:01:11 CET 2021,GET,http://molde.idi.ntnu.no:21091/styles/style.css,200,OK,47,338,1008
+311,Thu Feb 04 00:01:11 CET 2021,Thu Feb 04 00:01:11 CET 2021,GET,http://molde.idi.ntnu.no:21091/scripts/navbar.js,200,OK,44,352,1736
+312,Thu Feb 04 00:01:11 CET 2021,Thu Feb 04 00:01:11 CET 2021,GET,http://molde.idi.ntnu.no:21091/scripts/scripts.js,200,OK,50,353,6218
+313,Thu Feb 04 00:01:11 CET 2021,Thu Feb 04 00:01:11 CET 2021,GET,http://molde.idi.ntnu.no:21091/?name=abc,200,OK,46,339,1622
+314,Thu Feb 04 00:01:11 CET 2021,Thu Feb 04 00:01:11 CET 2021,GET,http://molde.idi.ntnu.no:21091/img/fitness.jpg,200,OK,101,304,55502
+315,Thu Feb 04 00:01:11 CET 2021,Thu Feb 04 00:01:11 CET 2021,GET,http://molde.idi.ntnu.no:21091/styles/style.css,200,OK,53,338,1008
+316,Thu Feb 04 00:01:11 CET 2021,Thu Feb 04 00:01:11 CET 2021,GET,http://molde.idi.ntnu.no:21091/scripts/navbar.js,200,OK,58,352,1736
+317,Thu Feb 04 00:01:11 CET 2021,Thu Feb 04 00:01:11 CET 2021,GET,http://molde.idi.ntnu.no:21091/scripts/scripts.js,200,OK,68,353,6218
+318,Thu Feb 04 00:01:11 CET 2021,Thu Feb 04 00:01:11 CET 2021,GET,http://molde.idi.ntnu.no:21091/?name=abc,200,OK,41,339,1622
+319,Thu Feb 04 00:01:11 CET 2021,Thu Feb 04 00:01:11 CET 2021,GET,http://molde.idi.ntnu.no:21091/img/fitness.jpg,200,OK,101,304,55502
+320,Thu Feb 04 00:01:11 CET 2021,Thu Feb 04 00:01:11 CET 2021,GET,http://molde.idi.ntnu.no:21091/styles/style.css,200,OK,62,338,1008
+321,Thu Feb 04 00:01:11 CET 2021,Thu Feb 04 00:01:11 CET 2021,GET,http://molde.idi.ntnu.no:21091/scripts/navbar.js,200,OK,65,352,1736
+322,Thu Feb 04 00:01:11 CET 2021,Thu Feb 04 00:01:11 CET 2021,GET,http://molde.idi.ntnu.no:21091/scripts/scripts.js,200,OK,79,353,6218
+323,Thu Feb 04 00:01:11 CET 2021,Thu Feb 04 00:01:11 CET 2021,GET,http://molde.idi.ntnu.no:21091/img/fitness.jpg,200,OK,105,304,55502
+324,Thu Feb 04 00:01:11 CET 2021,Thu Feb 04 00:01:11 CET 2021,GET,http://molde.idi.ntnu.no:21091/register.html,200,OK,56,339,3133
+325,Thu Feb 04 00:01:12 CET 2021,Thu Feb 04 00:01:12 CET 2021,GET,http://molde.idi.ntnu.no:21091/styles/style.css,200,OK,61,338,1008
+326,Thu Feb 04 00:01:12 CET 2021,Thu Feb 04 00:01:12 CET 2021,GET,http://molde.idi.ntnu.no:21091/scripts/defaults.js,200,OK,60,349,47
+327,Thu Feb 04 00:01:12 CET 2021,Thu Feb 04 00:01:12 CET 2021,GET,http://molde.idi.ntnu.no:21091/scripts/navbar.js,200,OK,72,352,1736
+328,Thu Feb 04 00:01:12 CET 2021,Thu Feb 04 00:01:12 CET 2021,GET,http://molde.idi.ntnu.no:21091/scripts/scripts.js,200,OK,72,353,6218
+329,Thu Feb 04 00:01:12 CET 2021,Thu Feb 04 00:01:12 CET 2021,GET,http://molde.idi.ntnu.no:21091/scripts/register.js,200,OK,68,352,1267
+330,Thu Feb 04 00:01:12 CET 2021,Thu Feb 04 00:01:12 CET 2021,GET,http://molde.idi.ntnu.no:21091/register.html,200,OK,46,339,3133
+331,Thu Feb 04 00:01:12 CET 2021,Thu Feb 04 00:01:12 CET 2021,GET,http://molde.idi.ntnu.no:21091/?name=abc,200,OK,45,339,1622
+332,Thu Feb 04 00:01:12 CET 2021,Thu Feb 04 00:01:12 CET 2021,GET,http://molde.idi.ntnu.no:21091/styles/style.css,200,OK,48,338,1008
+333,Thu Feb 04 00:01:12 CET 2021,Thu Feb 04 00:01:12 CET 2021,GET,http://molde.idi.ntnu.no:21091/scripts/navbar.js,200,OK,50,352,1736
+334,Thu Feb 04 00:01:12 CET 2021,Thu Feb 04 00:01:12 CET 2021,GET,http://molde.idi.ntnu.no:21091/scripts/defaults.js,200,OK,49,349,47
+335,Thu Feb 04 00:01:12 CET 2021,Thu Feb 04 00:01:12 CET 2021,GET,http://molde.idi.ntnu.no:21091/scripts/scripts.js,200,OK,52,353,6218
+336,Thu Feb 04 00:01:12 CET 2021,Thu Feb 04 00:01:12 CET 2021,GET,http://molde.idi.ntnu.no:21091/scripts/register.js,200,OK,63,352,1267
+337,Thu Feb 04 00:01:12 CET 2021,Thu Feb 04 00:01:12 CET 2021,GET,http://molde.idi.ntnu.no:21091/scripts/navbar.js,200,OK,59,352,1736
+338,Thu Feb 04 00:01:12 CET 2021,Thu Feb 04 00:01:12 CET 2021,GET,http://molde.idi.ntnu.no:21091/styles/style.css,200,OK,62,338,1008
+339,Thu Feb 04 00:01:12 CET 2021,Thu Feb 04 00:01:12 CET 2021,GET,http://molde.idi.ntnu.no:21091/scripts/scripts.js,200,OK,76,353,6218
+340,Thu Feb 04 00:01:12 CET 2021,Thu Feb 04 00:01:12 CET 2021,GET,http://molde.idi.ntnu.no:21091/img/fitness.jpg,200,OK,107,304,55502
+341,Thu Feb 04 00:01:12 CET 2021,Thu Feb 04 00:01:12 CET 2021,GET,http://molde.idi.ntnu.no:21091/?name=abc,200,OK,52,339,1622
+342,Thu Feb 04 00:01:12 CET 2021,Thu Feb 04 00:01:12 CET 2021,GET,http://molde.idi.ntnu.no:21091/styles/style.css,200,OK,41,338,1008
+343,Thu Feb 04 00:01:12 CET 2021,Thu Feb 04 00:01:12 CET 2021,GET,http://molde.idi.ntnu.no:21091/scripts/navbar.js,200,OK,48,352,1736
+344,Thu Feb 04 00:01:12 CET 2021,Thu Feb 04 00:01:12 CET 2021,GET,http://molde.idi.ntnu.no:21091/scripts/scripts.js,200,OK,54,353,6218
+345,Thu Feb 04 00:01:12 CET 2021,Thu Feb 04 00:01:12 CET 2021,GET,http://molde.idi.ntnu.no:21091/img/fitness.jpg,200,OK,98,304,55502
+346,Thu Feb 04 00:01:13 CET 2021,Thu Feb 04 00:01:13 CET 2021,GET,http://molde.idi.ntnu.no:21091/img,404,Not Found,37,294,143
+347,Thu Feb 04 00:01:13 CET 2021,Thu Feb 04 00:01:13 CET 2021,GET,http://molde.idi.ntnu.no:21091/img?name=abc,404,Not Found,38,294,143
+348,Thu Feb 04 00:01:13 CET 2021,Thu Feb 04 00:01:13 CET 2021,GET,http://molde.idi.ntnu.no:21091/img/fitness.jpg,200,OK,87,304,55502
+349,Thu Feb 04 00:01:13 CET 2021,Thu Feb 04 00:01:13 CET 2021,GET,http://molde.idi.ntnu.no:21091/scripts,301,Moved Permanently,38,323,181
+350,Thu Feb 04 00:01:13 CET 2021,Thu Feb 04 00:01:13 CET 2021,GET,http://molde.idi.ntnu.no:21091/robots.txt,404,Not Found,38,294,149
+351,Thu Feb 04 00:01:13 CET 2021,Thu Feb 04 00:01:14 CET 2021,GET,http://molde.idi.ntnu.no:21091/img/fitness.jpg?name=abc,200,OK,100,304,55502
+352,Thu Feb 04 00:01:14 CET 2021,Thu Feb 04 00:01:14 CET 2021,GET,http://molde.idi.ntnu.no:21091/robots.txt?name=abc,404,Not Found,47,294,149
+353,Thu Feb 04 00:01:14 CET 2021,Thu Feb 04 00:01:14 CET 2021,GET,http://molde.idi.ntnu.no:21091/scripts/navbar.js,200,OK,48,352,1736
+354,Thu Feb 04 00:01:14 CET 2021,Thu Feb 04 00:01:14 CET 2021,GET,http://molde.idi.ntnu.no:21091/scripts,404,Not Found,55,294,147
+355,Thu Feb 04 00:01:14 CET 2021,Thu Feb 04 00:01:14 CET 2021,GET,http://molde.idi.ntnu.no:21091/scripts/navbar.js?name=abc,200,OK,40,352,1736
+356,Thu Feb 04 00:01:14 CET 2021,Thu Feb 04 00:01:14 CET 2021,GET,http://molde.idi.ntnu.no:21091/scripts?name=abc,404,Not Found,36,294,147
+357,Thu Feb 04 00:01:14 CET 2021,Thu Feb 04 00:01:14 CET 2021,GET,http://molde.idi.ntnu.no:21091/scripts/scripts.js,200,OK,66,353,6218
+358,Thu Feb 04 00:01:14 CET 2021,Thu Feb 04 00:01:14 CET 2021,GET,http://molde.idi.ntnu.no:21091/styles,301,Moved Permanently,38,322,179
+359,Thu Feb 04 00:01:14 CET 2021,Thu Feb 04 00:01:14 CET 2021,GET,http://molde.idi.ntnu.no:21091/sitemap.xml,404,Not Found,38,294,150
+360,Thu Feb 04 00:01:14 CET 2021,Thu Feb 04 00:01:14 CET 2021,GET,http://molde.idi.ntnu.no:21091/scripts/scripts.js?name=abc,200,OK,44,353,6218
+361,Thu Feb 04 00:01:15 CET 2021,Thu Feb 04 00:01:15 CET 2021,GET,http://molde.idi.ntnu.no:21091/sitemap.xml?name=abc,404,Not Found,41,294,150
+362,Thu Feb 04 00:01:15 CET 2021,Thu Feb 04 00:01:15 CET 2021,GET,http://molde.idi.ntnu.no:21091/styles,404,Not Found,40,294,146
+363,Thu Feb 04 00:01:15 CET 2021,Thu Feb 04 00:01:15 CET 2021,GET,http://molde.idi.ntnu.no:21091/styles/style.css,200,OK,36,338,1008
+364,Thu Feb 04 00:01:15 CET 2021,Thu Feb 04 00:01:15 CET 2021,GET,http://molde.idi.ntnu.no:21091/styles?name=abc,404,Not Found,36,294,146
+365,Thu Feb 04 00:01:15 CET 2021,Thu Feb 04 00:01:15 CET 2021,GET,http://molde.idi.ntnu.no:21091/styles/style.css?name=abc,200,OK,37,338,1008
+366,Thu Feb 04 00:01:17 CET 2021,Thu Feb 04 00:01:17 CET 2021,GET,http://molde.idi.ntnu.no:21091/img,301,Moved Permanently,33,319,173
+367,Thu Feb 04 00:01:17 CET 2021,Thu Feb 04 00:01:17 CET 2021,GET,http://molde.idi.ntnu.no:21091/scripts,301,Moved Permanently,31,323,181
+368,Thu Feb 04 00:01:17 CET 2021,Thu Feb 04 00:01:17 CET 2021,GET,http://molde.idi.ntnu.no:21091/styles,301,Moved Permanently,33,322,179
+369,Thu Feb 04 00:01:17 CET 2021,Thu Feb 04 00:01:17 CET 2021,GET,http://molde.idi.ntnu.no:21091/img,301,Moved Permanently,38,319,173
+370,Thu Feb 04 00:01:17 CET 2021,Thu Feb 04 00:01:17 CET 2021,GET,http://molde.idi.ntnu.no:21091/scripts,301,Moved Permanently,32,323,181
+371,Thu Feb 04 00:01:18 CET 2021,Thu Feb 04 00:01:18 CET 2021,GET,http://molde.idi.ntnu.no:21091/styles,301,Moved Permanently,34,322,179
