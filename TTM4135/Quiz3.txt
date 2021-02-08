@@ -1,0 +1,8 @@
+1.) 160 bits
+2.) recompute the tag
+3.) a MAC construction based on any iterated hash function
+4.) a block cipher in counter (CTR) mode and a special hash function GHASH
+5.) (x = 3 mod 5) and (x = 2 mod 10)
+6.) 24
+7.) if the test outputs "composite" then n is definitely composite
+8.) f(m) = O(m)
